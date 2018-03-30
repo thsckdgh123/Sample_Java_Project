@@ -1,4 +1,5 @@
-
+// 개발자: 손창호
+// Simple Calculator ver1
 public class Calculator {
 
 	public static void main(String[] args) {
