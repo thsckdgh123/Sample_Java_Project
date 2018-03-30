@@ -1,4 +1,4 @@
-// 개발자: 손창호
+// 개발자: 손창호, 손영민
 // Simple Calculator ver1
 public class Calculator {
 
